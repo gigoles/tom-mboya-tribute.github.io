@@ -24,6 +24,8 @@ line-height: 1.2;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+        height:auto;
+        Max-width:100%;
 }
 #img-caption{
 	text-align: center;
