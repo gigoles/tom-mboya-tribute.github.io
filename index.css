@@ -69,6 +69,9 @@ li{
 margin: 0;
 	}
 }
+#tribute-infor{
+text-align:justify;
+}
 footer{
 	text-align: center;
 	background-color: #000;
