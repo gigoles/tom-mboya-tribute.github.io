@@ -38,8 +38,12 @@ line-height: 1.2;
 		font-size: 1.4rem
 	}
 }
+@media (max-width: 460px){
 #img-div{
-	window.scroll-behavior(250,700)
+display:block;
+window.scroll-behavior(250,700)
+Position: fixed;
+}
 }
 h3{
 padding-bottom: 30px;
