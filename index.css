@@ -57,13 +57,7 @@ li{
 	margin: 16px 0;
 
 }
-#main{
-	margin: auto;
-	padding: 15px;
-	border-radius: 5px;
-	background:#242423;
-	width: 400px;
-	text-align: center;
+nter;
 }
 @media (max-width: 460px){
 	#main{
