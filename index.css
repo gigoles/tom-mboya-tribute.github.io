@@ -20,10 +20,7 @@ line-height: 1.2;
 }
 }
 #image{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
+	display:block;
         height:auto;
         Max-width:100%;
 }
